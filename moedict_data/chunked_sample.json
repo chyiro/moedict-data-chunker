@@ -1,33 +1,33 @@
 [
     {
-        "title": "\u8B1B\u7FA9",
+        "title": "講義",
         "heteronyms": [
             {
                 "definitions": [
                     {
-                        "chunked_quote": "\u5357\u53F2;\u5377;\u4E03;\u6881\u6B66\u5E1D;\u672C\u7D00;\u4E0B;\u521D;\u5E1D;\u5275;\u540C;\u6CF0;\u5BFA;\u81F3;\u662F;\u958B;\u5927\u901A;\u9580;\u4EE5;\u5C0D;\u5BFA;\u4E4B;\u5357\u9580;\u53D6;\u53CD\u8A9E;\u4EE5;\u5354\u540C;\u6CF0;\u81EA\u662F;\u6668\u5915;\u8B1B\u7FA9;\u591A;\u7531\u6B64;\u9580;",
-                        "def": "\u95E1\u91CB\u8AAA\u660E\u66F8\u7C4D\u7684\u7FA9\u7406\u3002",
-                        "chunked_def": "\u95E1\u91CB;\u8AAA\u660E;\u66F8\u7C4D;\u7684;\u7FA9\u7406;",
+                        "chunked_quote": "南史;卷;七;梁武帝;本紀;下;初;帝;創;同;泰;寺;至;是;開;大通;門;以;對;寺;之;南門;取;反語;以;協同;泰;自是;晨夕;講義;多;由此;門;",
+                        "def": "闡釋說明書籍的義理。",
+                        "chunked_def": "闡釋;說明;書籍;的;義理;",
                         "quote": [
-                            "\u5357\u53F2\uFF0E\u5377\u4E03\uFF0E\u6881\u6B66\u5E1D\u672C\u7D00\u4E0B\uFF1A\u300C\u521D\uFF0C\u5E1D\u5275\u540C\u6CF0\u5BFA\uFF0C\u81F3\u662F\u958B\u5927\u901A\u9580\u4EE5\u5C0D\u5BFA\u4E4B\u5357\u9580\uFF0C\u53D6\u53CD\u8A9E\u4EE5\u5354\u540C\u6CF0\u3002\u81EA\u662F\u6668\u5915\u8B1B\u7FA9\uFF0C\u591A\u7531\u6B64\u9580\u3002\u300D"
+                            "南史．卷七．梁武帝本紀下：「初，帝創同泰寺，至是開大通門以對寺之南門，取反語以協同泰。自是晨夕講義，多由此門。」"
                         ]
                     },
                     {
-                        "chunked_quote": "\u5B8B;\u90A2\u663A;\u5B5D\u7D93;\u6CE8\u758F;\u5E8F;\u6703\u5408;\u6B78;\u8DA3;\u4E00;\u4F9D;\u8B1B;\u8AAA;\u6B21\u7B2C;\u89E3\u91CB;\u865F;\u4E4B;\u70BA;\u8B1B\u7FA9;\u4E5F;",
-                        "def": "\u53E4\u6642\u81E3\u5B50\u5C07\u8B1B\u6388\u7D66\u5E1D\u738B\u7814\u7FD2\u7684\u8CC7\u6599\u9810\u5148\u64B0\u64EC\u51FA\u4F86\uFF0C\u7A31\u70BA\u300C\u8B1B\u7FA9\u300D\u3002",
-                        "chunked_def": "\u53E4\u6642;\u81E3\u5B50;\u5C07;\u8B1B\u6388;\u7D66;\u5E1D\u738B;\u7814\u7FD2;\u7684;\u8CC7\u6599;\u9810\u5148;\u64B0;\u64EC;\u51FA\u4F86;\u7A31;\u70BA;\u8B1B\u7FA9;",
+                        "chunked_quote": "宋;邢昺;孝經;注疏;序;會合;歸;趣;一;依;講;說;次第;解釋;號;之;為;講義;也;",
+                        "def": "古時臣子將講授給帝王研習的資料預先撰擬出來，稱為「講義」。",
+                        "chunked_def": "古時;臣子;將;講授;給;帝王;研習;的;資料;預先;撰;擬;出來;稱;為;講義;",
                         "quote": [
-                            "\u5B8B\uFF0E\u90A2\u663A\uFF0E\u5B5D\u7D93\u6CE8\u758F\u5E8F\uFF1A\u300C\u6703\u5408\u6B78\u8DA3\uFF0C\u4E00\u4F9D\u8B1B\u8AAA\uFF0C\u6B21\u7B2C\u89E3\u91CB\uFF0C\u865F\u4E4B\u70BA\u8B1B\u7FA9\u4E5F\u3002\u300D"
+                            "宋．邢昺．孝經注疏序：「會合歸趣，一依講說，次第解釋，號之為講義也。」"
                         ]
                     },
                     {
-                        "def": "\u5B78\u6821\u6559\u5E2B\u70BA\u5B78\u751F\u7DE8\u8F2F\u7684\u8B1B\u6388\u8CC7\u6599\u3002",
-                        "chunked_def": "\u5B78\u6821;\u6559\u5E2B;\u70BA\u5B78;\u751F;\u7DE8\u8F2F;\u7684;\u8B1B\u6388;\u8CC7\u6599;"
+                        "def": "學校教師為學生編輯的講授資料。",
+                        "chunked_def": "學校;教師;為學;生;編輯;的;講授;資料;"
                     }
                 ],
-                "pinyin": "ji\u01CEng y\u00EC",
-                "bopomofo2": "ji\u01CEng y\u00EC",
-                "bopomofo": "\u3110\u3127\u3124\u02C7 \u3127\u02CB"
+                "pinyin": "jiǎng yì",
+                "bopomofo2": "jiǎng yì",
+                "bopomofo": "ㄐㄧㄤˇ ㄧˋ"
             }
         ]
     }
